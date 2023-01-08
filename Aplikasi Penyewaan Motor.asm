@@ -37,7 +37,7 @@ jmp mulai
             
     sewa6      db 0dh, 0ah, 0dh, 0ah, "Proses berhasil, berikut rinciannya :", '$'
     sewa7      db 0dh, 0ah, "Motor Dapat diambill di kasir setelah pembayaran", '$'
-    sewa8      db 0dh, 0ah, 0dh, 0ah,"Apakah ada tambahan tenda yang disewa ?(Y, N)", '$'
+    sewa8      db 0dh, 0ah, 0dh, 0ah,"Apakah ada tambahan motor yang disewa ?(Y, N)", '$'
     salah   db 0dh, 0ah, "Tidak ada pilihan.", '$'      
     
                                                                                                  
